@@ -1,1 +1,1 @@
-# epic-reacr
+# epic-react
